@@ -43,3 +43,4 @@ This type of vulnerability can be leveraged for reconnaissance and targeted phis
 ---
 
 **Disclaimer:** This case study is for demonstration only. Sensitive business names, domains, and asset details have been removed.
+
