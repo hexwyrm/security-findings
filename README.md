@@ -7,7 +7,7 @@ This repository highlights my methodology, technical skills, and ability to comm
 
 ## 📂 Contents
 - **Reports/** — Redacted vulnerability reports demonstrating real-world testing and responsible disclosure practices.
-- **Update-Scripts/** — Automation scripts I’ve built to streamline tool installation and environment maintenance.
+- **E-mail Analysis/** — Write-ups on spam e-mail messages that have been analized by myself.
 - **Case Studies/** — Generalized write-ups of security concepts and lessons learned.
 
 ---
