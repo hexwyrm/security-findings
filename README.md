@@ -17,7 +17,16 @@ Each entry includes indicators, behavioral analysis, and defensive recommendatio
 As time permits, I will continue expanding this section to document newly discovered indicators and evolving threat patterns.
 
 ### **Case-Studies/**
-Generalized security case studies covering concepts, lessons learned, and defensive strategies.
+Real-world security investigations and incident response analyses.  
+Each case study is stored in its own subdirectory to allow for supporting files, logs, and future expansion.
+
+Current case studies include:
+
+- **api-information-disclosures/**  
+  Analysis of an information disclosure vulnerability discovered during API testing, including methodology, impact assessment, and remediation guidance.
+
+- **windows-infatica-2026/**  
+  A full Windows 11 incident response case study documenting the discovery, investigation, and removal of a stealth-installed residential proxy agent (Infatica P2B), along with post-incident hardening steps.
 
 ### **Hardening_Checklists/**
 Actionable hardening guides for:
