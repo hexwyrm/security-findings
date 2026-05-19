@@ -269,4 +269,4 @@ The system is now clean and hardened.
 
 This incident is a **security investigation and remediation case study** and belongs in:
 
-security-findings/case-studies/windows-infactica-2026/incident_report.md
+security-findings/case-studies/windows-infactica-2026/Windows-11-Incident-Response-Case-1.md
