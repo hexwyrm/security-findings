@@ -21,8 +21,8 @@ Each file in this directory represents a standalone case study:
 - **Case Study #2 – Bitdefender Subscription Renewal Scam**  
   Breakdown of a fraudulent calendar‑invite‑based phishing attack designed to coerce the victim into calling a scam support number.
 
-- **Case Study #3 – [Pending]**  
-  Will be added as additional phishing emails are analyzed.
+- **Case Study #3 – LinkedIn Recruitment Scam Attempt – Social Engineering Detection Case Study (2026)**  
+  This was a social engineering and/or attempted scam for personal data and most likely money.
 
 - **Case Study #4 – [Pending]**  
   Will be added as additional phishing emails are analyzed.
