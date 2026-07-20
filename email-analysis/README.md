@@ -28,6 +28,11 @@ Each file in this directory represents a standalone case study:
   A detailed analysis of a fraudulent job‑recruitment attempt impersonating Corgan.  
   This case study documents a spoofed hiring domain, falsified HR identity, and a malicious questionnaire‑based workflow designed to harvest personal information or deliver malware.  
   The write‑up includes a full conversation thread, red‑flag breakdown, threat assessment, and defensive recommendations.
+  
+- **Case Study #5 – MK Wholesaler Multi‑Role Remote Job Recruitment Scam (Employment Fraud Attempt)**  
+  A breakdown of a fraudulent multi‑position remote‑job recruitment scam impersonating a non‑existent employer.  
+  This case study analyzes a Gmail‑based sender, inflated salary offers, vague job descriptions, and a malicious Microsoft Teams workflow designed to harvest personal information or initiate financial fraud.
+
 
 ---
 
